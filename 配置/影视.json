@@ -1,6 +1,6 @@
 {
   "sites": [
-/*   
+  /*   
    {
       "key": "drpy_js_虎牙",
       "name": "虎牙直播",
@@ -658,7 +658,7 @@
       "name": "奇优嗅探",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://ghproxy.net/https://github.com/18503873514/NPX/blob/main/JAR/XBPQ.jar;md5;534246be66cfa4f252d7dcbf106673c9","
+      "jar":"https://ghproxy.net/https://github.com/18503873514/NPX/blob/main/JAR/XBPQ.jar;md5;534246be66cfa4f252d7dcbf106673c9",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -945,7 +945,7 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
- ],
+ 
 
     ],
     "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713263749769/fan.txt;md5;c84c36278bd8bc95a63449a128074be0",
