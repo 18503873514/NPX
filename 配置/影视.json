@@ -1,37 +1,7 @@
 {
   "sites": [
-  /*   
-   {
-      "key": "drpy_js_虎牙",
-      "name": "虎牙直播",
-      "type": 3,
-      "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"
-    },
-    {
-      "key": "drpy_js_哔哩直播",
-      "name": "哔哩直播",
-      "type": 3,
-      "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩直播.js"
-    },
-    {
-      "key": "drpy_js_斗鱼",
-      "name": "斗鱼直播",
-      "type": 3,
-      "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js"
-    },
-*/   
+  
+
     {
       "key": "drpy_js_豆瓣",
       "name": "🔑豆瓣推荐",
@@ -1015,7 +985,7 @@
           "优酷视频",
           "芒果视频",
           "乐视视频"
-        ]
+        ],
                 "header": {
           "User-Agent": "Dart/2.18 (dart:io)"
         }
