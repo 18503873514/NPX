@@ -1,20 +1,13 @@
-
 {"urls":
 [
+{"url":"clan://localhost/TVBOX本地包/影视.json","name":"🇨🇳影视本地包"},
+{"url":"http://tvbox.王二小放牛娃.xyz","name":"🐂放牛网络包"},
+{"url":"http://xhww.fun/小米/DEMO.json","name":"🍚小米网络包"},
+{"url":"http:肥猫.live/","name":"😿肥猫网络包"},
+{"url":"https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json","name":"🐣成人网络包"}
 
-{"url":"clan://localhost/TVBOX本地包/VIP影视.json","name":"🐲影视┣自用"},
-{"url":"clan://localhost/TVBOX本地包/VIP娱乐.json","name":"🌷娱乐┣自用"},
-{"url":"clan://localhost/TVBOX本地包/VIP成人.json","name":"🔞成人┣自用"},
-{"url":"http://xhww.fun:63/小米/DEMO.json","name":"🌸小米┣网络"},
-{"url":"http://rihou.cc:88/荷城茶秀","name":"🌸荷城┣网络"},
-{"url":"http://我不是.肥猫.love:63/接口禁止贩卖","name":"🌸肥猫┣网络"},
-{"url":"http://饭太硬.top/tv","name":"🌸饭佬┣网络"},
-{"url":"clan://localhost/TVBOX本地包/XYQTVBox/XYQTVBox.json","name":"🌸香雅晴┣本地"},
-{"url":"http://ysc.weixine.net:33/","name":"🌸打车┣网络"},
-{"url":"http://rihou.cc:66/高天流云","name":"🌸道长┣网络"}
 ]
 }
-
 
 
 
