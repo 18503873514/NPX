@@ -1,6 +1,37 @@
 {
   "sites": [
-
+/*   
+   {
+      "key": "drpy_js_虎牙",
+      "name": "虎牙直播",
+      "type": 3,
+      "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js"
+    },
+    {
+      "key": "drpy_js_哔哩直播",
+      "name": "哔哩直播",
+      "type": 3,
+      "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩直播.js"
+    },
+    {
+      "key": "drpy_js_斗鱼",
+      "name": "斗鱼直播",
+      "type": 3,
+      "api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js"
+    },
+*/   
     {
       "key": "drpy_js_豆瓣",
       "name": "🍁豆瓣推荐",
@@ -108,7 +139,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./bilibili/哔哩影视.js"
+     "ext": "https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/Bilibili/哔哩影视.js"
     },
     {
       "key": "drpy_js_网易",
@@ -128,7 +159,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./bilibili/哔哩主页.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/Bilibili/哔哩主页.json"
+      
     },
     {
       "key": "小灯塔科学",
@@ -138,7 +170,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./bilibili/哔哩灯塔.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/Bilibili/哔哩灯塔.json"
+     
     },
     {
       "key": "幼儿教育",
@@ -148,7 +181,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./bilibili/哔哩儿童.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/Bilibili/哔哩儿童.json"
     },
     {
       "key": "学堂",
@@ -158,7 +191,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./bilibili/哔哩学堂.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/Bilibili/哔哩学堂.json"
     },
     {
       "key": "短剧",
@@ -603,33 +636,33 @@
       "name": "可可嗅探",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"./JAR/XBPQ.jar",
+      "jar":"https://ghproxy.net/https://github.com/18503873514/NPX/blob/main/JAR/XBPQ.jar;md5;534246be66cfa4f252d7dcbf106673c9",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./XBPQ/可可.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/XBPQ/可可.json"
     },
     {
     "key":"XBPQ_黑狐影院",
     "name":"黑狐嗅探",
     "type":3,
     "api":"csp_XBPQ", 
-     "jar":"./JAR/XBPQ.jar",
+     "jar":"https://ghproxy.net/https://github.com/18503873514/NPX/blob/main/JAR/XBPQ.jar;md5;534246be66cfa4f252d7dcbf106673c9",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-	"ext": "./XBPQ/黑狐.json"
+	"ext": "https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/XBPQ/黑狐.json"
     },
     {
       "key": "csp_xBPQ_奇游",
       "name": "奇优嗅探",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"./JAR/XBPQ.jar",
+      "jar":"https://ghproxy.net/https://github.com/18503873514/NPX/blob/main/JAR/XBPQ.jar;md5;534246be66cfa4f252d7dcbf106673c9","
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/奇优影视.json"
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/XBPQ/奇优影视.json"
     },
     {
       "key": "drpy_js_大师兄影视",
