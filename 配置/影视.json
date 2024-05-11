@@ -193,6 +193,69 @@
       "filterable": 0,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/Bilibili/哔哩学堂.json"
     },
+    
+      	{
+      "key": "Wexergeduoduo",
+      "name": "🐂多多儿歌",
+      "type": 3,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+      "api": "csp_Wexergeduoduo",
+      "searchable": 1,
+      "changeable": 0,
+	  	  "style": {
+        "type": "rect",
+        "ratio": 2
+        }
+    },
+	{
+      "key": "Wexbaobaobashi",
+      "name": "🐂宝宝儿歌",
+      "type": 3,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+      "api": "csp_Wexbaobaobashi",
+      "searchable": 1,
+      "changeable": 0,
+	  	  "style": {
+        "type": "rect",
+        "ratio": 2
+        }
+    },
+	{
+      "key": "Wexbeiwa",
+      "name": "🐂贝贝儿歌",
+      "type": 3,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+      "api": "csp_Wexbeiwa",
+      "searchable": 1,
+      "changeable": 0,
+	  	  "style": {
+        "type": "rect",
+        "ratio": 2
+        }
+    },
+	{
+      "key": "Wextuxiaobei",
+      "name": "🐂兔兔儿歌",
+      "type": 3,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+      "api": "csp_Wextuxiaobei",
+      "searchable": 1,
+      "changeable": 0,
+	  	  "style": {
+        "type": "rect",
+        "ratio": 2
+        }
+    },
+    
+	{
+      "key": "Wexduanjuso",
+      "name": "🐂放牛短剧",
+      "type": 3,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+      "api": "csp_Wexduanjuso",
+      "searchable": 1,
+      "changeable": 0
+    },
     {
       "key": "短剧",
       "name": "🍓量子短剧",
