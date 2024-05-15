@@ -1,7 +1,23 @@
 {
   "sites": [
   
-
+ {
+    "ext" : "eyJhcGkiOiJodHRwczovL2Euamt6ei5zaXRlIiwidG9rZW4iOiJxS2JwMWxma2trayJ9",
+    "filterable" : 1,
+    "quickSearch" : 1,
+    "playerType" : 1,
+    "name" : "YouTube",
+    "changeable" : 0,
+    "jar" : "https://a.jkzz.site/spring.jar",
+    "style" : {
+      "type" : "rect",
+      "ratio" : 1.597
+    },
+    "api" : "csp_Youtube",
+    "type" : 3,
+    "key" : "csp_Youtube",
+    "searchable" : 1
+  },
     {
       "key": "drpy_js_豆瓣",
       "name": "🔑豆瓣推荐",
