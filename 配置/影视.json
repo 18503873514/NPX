@@ -1,8 +1,8 @@
 {
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713263749769/fan.txt;md5;c84c36278bd8bc95a63449a128074be0",
+	"wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
-  
- 
-    {
+     {
       "key": "drpy_js_豆瓣",
       "name": "🔑豆瓣推荐",
       "type": 3,
@@ -26,7 +26,7 @@
       "key": "应用商店",
       "name": "🐂影视应用",
       "type": 3,
-      "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",      
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
@@ -178,7 +178,7 @@
       "key": "Wexergeduoduo",
       "name": "🐂多多儿歌",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "api": "csp_Wexergeduoduo",
       "searchable": 1,
       "changeable": 0,
@@ -191,7 +191,7 @@
       "key": "Wexbaobaobashi",
       "name": "🐂宝宝儿歌",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "api": "csp_Wexbaobaobashi",
       "searchable": 1,
       "changeable": 0,
@@ -204,7 +204,7 @@
       "key": "Wexbeiwa",
       "name": "🐂贝贝儿歌",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "api": "csp_Wexbeiwa",
       "searchable": 1,
       "changeable": 0,
@@ -217,7 +217,7 @@
       "key": "Wextuxiaobei",
       "name": "🐂兔兔儿歌",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "api": "csp_Wextuxiaobei",
       "searchable": 1,
       "changeable": 0,
@@ -230,7 +230,7 @@
       "key": "Wexliyuan",
       "name": "🐂戏曲大全",
       "type": 3,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+   "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "api": "csp_Wexliyuan",
       "searchable": 1,
       "changeable": 0,
@@ -243,7 +243,7 @@
       "key": "Wextangdou",
       "name": "🐂跳舞教程",
       "type": 3,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+   "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "api": "csp_Wextangdou",
       "searchable": 1,
       "changeable": 0,
@@ -256,7 +256,7 @@
       "key": "Wexwuxiang",
       "name": "🐂格斗打拳",
       "type": 3,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+   "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "api": "csp_Wexwuxiang",
       "searchable": 1,
       "changeable": 0,
@@ -307,7 +307,7 @@
       "name": "🐂音悦台",
       "type": 3,
       "api": "csp_WexYinyuetai",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -317,7 +317,7 @@
       "name": "🐂音乐MV",
       "type": 3,
       "api": "csp_WexIktv",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -325,7 +325,7 @@
     {
       "key": "Wexqingfengdj",
       "name": "🐂舞曲DJ",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "type": 3,
       "api": "csp_Wexqingfengdj",
       "searchable": 1,
@@ -335,7 +335,7 @@
     {
       "key": "Wexxsmp3",
       "name": "🐂随身相声",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "type": 3,
       "api": "csp_Wexxsmp3",
       "searchable": 1,
@@ -347,7 +347,7 @@
       "name": "🐂随身评书",
       "type": 3,
       "api": "csp_Wexpsmp3",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -357,7 +357,7 @@
       "name": "🐂88体育",
       "type": 3,
       "api": "csp_Kanqiu",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -367,7 +367,7 @@
       "name": "🐂大鹅体育",
       "type": 3,
       "api": "csp_XPath",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -633,7 +633,7 @@
     {
       "key": "Wexxiongdiys",
       "name": "🐂机油直连",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "type": 3,
       "api": "csp_Wexxiongdiys",
       "searchable": 1,
@@ -643,7 +643,7 @@
     {
       "key": "csp_Nmys",
       "name": "🐂伯伯直连",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "type": 3,
       "api": "csp_WexNmys",
       "searchable": 1,
@@ -654,7 +654,7 @@
     {
       "key": "mingriyingshi",
       "name": "🐂明日直连",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "type": 3,
       "api": "csp_WexMingriys",
       "searchable": 1,
@@ -664,7 +664,7 @@
     {
       "key": "Fujutv",
       "name": "🐂腐剧直连",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "type": 3,
       "api": "csp_WexFujutv",
       "searchable": 1,
@@ -675,7 +675,7 @@
       "key": "Wexhanxiaoquan",
       "name": "🐂韩圈直连",
       "type": 3,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+   "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "api": "csp_Wexhanxiaoquan",
       "searchable": 1,
       "changeable": 1
@@ -684,7 +684,7 @@
       "key": "Wexhanjutv",
       "name": "🐂韩剧直连",
       "type": 3,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+   "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "api": "csp_Wexhanjutv",
       "searchable": 1,
       "changeable": 1
@@ -694,7 +694,7 @@
       "key": "Fangniu4k",
       "name": "🐂放牛直连",
       "type": 3,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+   "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "api": "csp_WexFangniu4k",
       "searchable": 1,
       "changeable": 1
@@ -703,7 +703,7 @@
       "key": "Wexshandian",
       "name": "🐂闪电直连",
       "type": 3,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+   "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "api": "csp_Wexshandian",
       "searchable": 1,
       "changeable": 1
@@ -711,7 +711,7 @@
     {
       "key": "Wexjiohub",
       "name": "🐂啾啾直连",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "type": 3,
       "api": "csp_Wexjiohub",
       "searchable": 1,
@@ -721,7 +721,7 @@
     {
       "key": "Subaibai",
       "name": "🐂拜拜直连",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "type": 3,
       "api": "csp_Subaibai",
       "searchable": 1,
@@ -731,7 +731,7 @@
     {
       "key": "F4kvm",
       "name": "🐂纯享直连",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
       "type": 3,
       "api": "csp_WexF4kvm",
       "searchable": 1,
@@ -860,7 +860,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBOX本地包/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": "http://127.0.0.1:9978/file/TVBOX本地包/token.txt+auto|4k|fhd$$$https://api.wogg.net/$$$弹"
     },
     {
       "key": "PanSou",
@@ -1071,7 +1071,7 @@
     "cntv",
     "xigua",
     "wasu",
-    "imgo",*
+    "imgo",
     "爱奇艺",
     "腾讯",
     "芒果TV",
@@ -1084,9 +1084,31 @@
 
    
     "lives": [
-
+  {
+        "name": "IPTV1",
+        "type": 0,
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u",
+        "playerType": 1,
+        "ua": "okhttp/3.15",
+        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+         "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }, 
+    {
+        "name": "IPTV2",
+        "type": 0,
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u",
+        "playerType": 1,
+        "ua": "okhttp/3.15",
+        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+         "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
   ],
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713263749769/fan.txt;md5;c84c36278bd8bc95a63449a128074be0",
-	"wallpaper": "https://深色壁纸.xxooo.cf/"
+   "ads": [
+    "wan.51img1.com",
+    "iqiyi.hbuioo.com",
+    "vip.ffzyad.com",
+    "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
+  ]
+  
 
 }
