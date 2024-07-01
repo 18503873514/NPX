@@ -1,12 +1,10 @@
 {"urls":
 [
-{"url":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/配置/影视.json","name":"🇨🇳影视自配包"},
-{"url":"http://tvbox.王二小放牛娃.xyz","name":"🐂放牛网络包"},
-{"url":"http://xhww.fun/小米/DEMO.json","name":"🍚小米网络包"},
-{"url":"http://cdn.qiaoji8.com/tvbox.json","name":"🐣巧记网络包"},
-{"url":"http://www.wya6.cn/tv/yc.json","name":"🍒如意网络包"},
-{"url":"http:肥猫.live/","name":"😿肥猫网络包"},
-{"url":"https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json","name":"🐣成人网络包"}
+{"url":"clan://localhost/TVBOX本地包/影视.json","name":"自配"},
+{"url":"http://cdn.qiaoji8.com/tvbox.json","name":"巧记"},
+{"url":"http://www.wya6.cn/tv/yc.json","name":"如意"},
+{"url":"https://肥猫.com/","name":"肥猫"},
+{"url":"https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json","name":"成人"}
 
 ]
 }
