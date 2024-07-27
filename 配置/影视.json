@@ -1,5 +1,6 @@
 {
-"spider": "https://github.com/18503873514/NPX/blob/main/JAR/pg.jar",
+"spider":"https://vercel.jkzz.eu.org/d/BQACAgEAAyEGAASEOGgeAAMaZqRyM_JUQB3U_5snM_lP47eK8a8AAuwFAAJXuylF9I-HZMdJSH81BA;md5;bcb472152d0e3638e9397d8e195ef4fa",
+
  
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 
@@ -15,15 +16,7 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
     },
 
-    {
-      "key": "YGP",
-      "name": "预告影视",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
+
 
     {
       "key": " 在线┃直播2",
@@ -35,9 +28,22 @@
       "filterable": 0,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JustLive.js"
     },
+    	{
+			"key":"bili",
+			"name":"哔哩官网",
+			"type":3,
+			"api": "csp_Bili",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext":{
+				"type":"宝宝巴士#贝乐虎#贝瓦儿歌#兔小贝#戏曲#动物世界#灯塔文学#纪录片#综艺片",
+				"cookie":""
+			}
+		},
     		{
 			"key": "FirstAid",
-			"name": "🚑 急救知识 ",
+			"name": "急救知识 ",
 			"type": 3,
 			"api": "csp_FirstAid",
 			"searchable": 0,
@@ -48,7 +54,23 @@
 				"ratio": 3.8
 			}
 		},
- 
+ {
+			"key": "酷狗",
+			"name": "酷狗音乐",
+			"type": 3,
+			"api": "csp_Kugou",
+			"searchable": 1,
+			"changeable": 0
+		},
+	
+		{
+			"key": "Yinyuetai",
+			"name": "音悦台",
+			"type": 3,
+			"api": "csp_Yinyuetai",
+			"searchable": 1,
+			"changeable": 0
+		},
     {
       "key": "drpy_js_360",
       "name": "三六官网",
@@ -109,19 +131,7 @@
       "filterable": 0,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
     },
-    	{
-			"key":"bili",
-			"name":"哔哩官网",
-			"type":3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext":{
-				"type":"宝宝巴士#贝乐虎#贝瓦儿歌#兔小贝#戏曲#动物世界#灯塔文学#纪录片#综艺片",
-				"cookie":""
-			}
-		},
+    
     
 
     {
@@ -134,60 +144,7 @@
       "filterable": 0,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网易公版影像.js"
     },
-    {
-      "key": "csp_主页",
-      "name": "哔哩主页",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/Bilibili/哔哩主页.json"
-      
-    },
-    {
-      "key": "小灯塔科学",
-      "name": "哔哩灯塔",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/Bilibili/哔哩灯塔.json"
-     
-    },
-    {
-      "key": "幼儿教育",
-      "name": "哔哩儿童",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/Bilibili/哔哩儿童.json"
-    },
-    {
-      "key": "学堂",
-      "name": "哔哩学堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/Bilibili/哔哩学堂.json"
-    },
-      {
-      "key": "热播",
-      "name": "热播网页",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-    },
+   
    {
        "key":"南瓜影视",
        "name":"南瓜网页",
@@ -291,75 +248,31 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "可可",
-      "name": " 可可网页",
-      "type": 3,
-      "playerType": "2",
-       "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240625.jar;md5;b876c3978f963d61d6b64933c9017451",
-      "api": "csp_Keke",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-   {
-      "key": "zxzj",
-      "name": "在线外剧",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzjhd.com/"
-    },
-  
-    {
-      "key": "比特",
-      "name": "比特外剧",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Lib",
-      "name": "立播外剧",
-      "type": 3,
-      "api": "csp_Libvio",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.libvio.pw/"
-    },
-    {
-      "key": "Auete",
-      "name": "奥特外剧",
-      "type": 3,
-      "api": "csp_Auete",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://auete.pro/"
-    },
 
-
-    
-
-    {
-      "key": "csp_Dm84",
-      "name": "动漫巴士",
-      "type": 3,
-      "api": "csp_Dm84",
-      "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240625.jar;md5;b876c3978f963d61d6b64933c9017451",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-  
+    	{
+			"key": "天天",
+			"name": "天天网页",
+			"type": 3,
+			"api": "csp_TTian",
+			"ext": "http://op.ysdqjs.cn$$$null$$$1"
+		},
+		{
+			"key": "巴士",
+			"name": "动漫巴士",
+			"type": 3,
+			"api": "csp_Dm84",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "異界",
+			"name": "異界动漫",
+			"type": 3,
+			"api": "csp_Ysj",
+			"searchable": 1,
+			"changeable": 0
+		},
+	 
     {
       "key": "csp_Anime1",
       "name": "日本动漫",
@@ -458,42 +371,37 @@
         "斯诺克"
       ]
     },
-      {
-      "key": "YiSo",
-      "name": "易搜阿里",
+     {
+      "key": "可可",
+      "name": "可可网页",
       "type": 3,
-      "api": "csp_YiSo",
+      "jar":"https://vercel.jkzz.eu.org/d/BQACAgEAAyEGAASEOGgeAAMZZqRyC-SQS2ud8i6WZBoSo6qps2MAAusFAAJXuylFMYciqRrOUNA1BA;md5;b876c3978f963d61d6b64933c9017451;md5;b876c3978f963d61d6b64933c9017451",
+      "playerType": "2",
+      "api": "csp_Keke",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "aliToken": "",
-        "from": "4k|auto|fhd"
-      }
+      "filterable": 1
     },
     {
-      "key": "PanSou",
-      "name": "盘搜阿里",
+      "key": "csp_PanSearch",
+      "name": "阿里盘搜",
       "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "aliToken": "",
-        "from": "4k|auto|fhd"
-      }
+       "jar":"https://vercel.jkzz.eu.org/d/BQACAgEAAyEGAASEOGgeAAMZZqRyC-SQS2ud8i6WZBoSo6qps2MAAusFAAJXuylFMYciqRrOUNA1BA;md5;b876c3978f963d61d6b64933c9017451",
+      "api": "csp_PanSearch",
+      "ext": ""
     },
-      {
-      "key": "push_agent1",
+    {
+      "key": "push_agent",
       "name": "阿里推送",
       "type": 3,
+       "jar":"https://vercel.jkzz.eu.org/d/BQACAgEAAyEGAASEOGgeAAMZZqRyC-SQS2ud8i6WZBoSo6qps2MAAusFAAJXuylFMYciqRrOUNA1BA;md5;b876c3978f963d61d6b64933c9017451",
       "api": "csp_Push",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "playerType": "1",
+      "searchable": 0,
       "ext": ""
     }
+   
+    
 
  
 
@@ -501,34 +409,31 @@
   "parses": [
   
     {
-      "name": "解析聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
       "name": "Json轮询",
       "type": 2,
       "url": "Sequence"
     },
+    {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+  
   
     {
       "name": "Json并发",
       "type": 2,
       "url": "Parallel"
     },
-       {
-      "name": "公众号：肥猫宝贝",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url="}
    
-/* {
+   
+{
       "name": "浪潮",
       "type": 1,
       "url": "https://api.8l2.cn/api/?key=4736ea9b784906b0063ddd41e307c16e&url="
   
     }
 
-*/
     
   ],
   "flags": [
