@@ -35,15 +35,20 @@
       "filterable": 0,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JustLive.js"
     },
-    {
-      "key": "Aid",
-      "name": "急救教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
+    		{
+			"key": "FirstAid",
+			"name": "🚑 急救知识 ",
+			"type": 3,
+			"api": "csp_FirstAid",
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 3.8
+			}
+		},
+ 
     {
       "key": "drpy_js_360",
       "name": "三六官网",
@@ -104,16 +109,21 @@
       "filterable": 0,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
     },
+    	{
+			"key":"bili",
+			"name":"哔哩官网",
+			"type":3,
+			"api": "csp_Bili",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext":{
+				"type":"宝宝巴士#贝乐虎#贝瓦儿歌#兔小贝#戏曲#动物世界#灯塔文学#纪录片#综艺片",
+				"cookie":""
+			}
+		},
     {
-      "key": "drpy_js_哔哩刺激",
-      "name": "哔哩官网",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-     "ext": "https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/Bilibili/哔哩影视.js"
-    },
+
     {
       "key": "drpy_js_网易",
       "name": "网易官网",
