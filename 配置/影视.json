@@ -1,5 +1,5 @@
 {
-"spider":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/pg.jar;md5;bcb472152d0e3638e9397d8e195ef4fa",
+"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/pg.jar;md5;bcb472152d0e3638e9397d8e195ef4fa",
 
  "wallpaper": "https://深色壁纸.xxooo.cf/",
 
@@ -9,17 +9,17 @@
       "key": "drpy_js_豆瓣",
       "name": "豆瓣推荐",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
     },
        {
             "key": "YGP",
             "name": "荐片推荐",
             "type": 3,
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
             "api": "csp_YGP",
             "searchable": 0,
             "quickSearch": 0,
@@ -37,7 +37,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JustLive.js"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JustLive.js"
     },
     	{
 			"key":"bili",
@@ -86,61 +86,61 @@
       "key": "drpy_js_360",
       "name": "三六官网",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
     },
     {
       "key": "drpy_js_菜狗",
       "name": "搜狗官网",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "腾讯官网",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "奇艺官网",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "芒果官网",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "优酷官网",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
     },
     
     
@@ -149,16 +149,16 @@
       "key": "drpy_js_网易",
       "name": "网易官网",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网易公版影像.js"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网易公版影像.js"
     },
    {
             "key": "韩圈",
             "name": "韩圈网页",
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/ok.txt;md5;7b519031fe3f38a8117fd402becb7927",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/ok.txt;md5;7b519031fe3f38a8117fd402becb7927",
             "type": 3,
             "api": "csp_HanXiaoQuan",
             "playerType": 2,
@@ -171,7 +171,7 @@
             "key": "JOJO",
             "name": "JOJO网页",
             "type": 3,
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/ok.txt;md5;7b519031fe3f38a8117fd402becb7927",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/ok.txt;md5;7b519031fe3f38a8117fd402becb7927",
             "api": "csp_Jiohub",
             "searchable": 1,
             "quickSearch": 1,
@@ -207,7 +207,7 @@
             "name": "酷看网页",
             "type": 3,
             "api": "csp_Kkys",
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
             "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
@@ -218,7 +218,7 @@
             "name": "立播网页",
             "type": 3,
             "api": "csp_Libvio",
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -233,7 +233,7 @@
             "name": "原创网页",
             "type": 3,
             "api": "csp_YCyz",
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
             "timeout": 15,
             "playerType": 1,
             "searchable": 1,
@@ -245,7 +245,7 @@
             "name": "苹果网页",
             "type": 3,
             "api": "csp_LiteApple",
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -256,7 +256,7 @@
             "name": "蛋蛋网页",
             "type": 3,
             "api": "csp_Cddys",
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
             "timeout": 15,
             "playerType": 2,
             "searchable": 1,
@@ -268,7 +268,7 @@
             "name": "在线外剧",
             "type": 3,
             "api": "csp_Zxzj",
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
             "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
@@ -280,7 +280,7 @@
             "name": "低端外剧",
             "type": 3,
             "api": "csp_Ddrk",
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
             "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
@@ -292,7 +292,7 @@
             "name": "可可多线",
             "type": 3,
             "api": "csp_Kekys",
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
             "timeout": 15,
             "playerType": 2,
             "searchable": 1,
@@ -304,7 +304,7 @@
             "name": "热播多线",
             "type": 3,
             "api": "csp_AppTT",
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
             "timeout": 15,
             "playerType": 2,
             "searchable": 1,
@@ -317,7 +317,7 @@
             "name": "萌米多线",
             "type": 3,
             "api": "csp_AppTT",
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
             "timeout": 15,
             "playerType": 1,
             "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
@@ -329,7 +329,7 @@
             "name": "奥特网页",
             "type": 3,
             "api": "csp_Auete",
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
             "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
@@ -352,7 +352,7 @@
             "name": "耐看网页",
             "type": 3,
             "api": "csp_Nkdy",
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
             "playerType": 2,
             "filterable": 1
         },
@@ -360,7 +360,7 @@
             "key": "csp_蚂蚁",
             "name": "蚂蚁无广",
             "type": 1,
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
             "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
             "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=",
             "filterable": 1
@@ -368,7 +368,7 @@
         {
             "key": "freeok",
             "name": "free独家",
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
             "type": 3,
             "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "api": "csp_FreeOK"
@@ -376,7 +376,7 @@
         {
             "key": "huohuo",
             "name": "火火独家",
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
             "type": 3,
             "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "api": "csp_SaoHuo"
@@ -385,7 +385,7 @@
         {
             "key": "csp_农民",
             "name": "汪汪独家",
-           "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c", 
+           "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c", 
             "type": 3,
             "api": "csp_Nongm"
         },
@@ -395,7 +395,7 @@
         {
             "key": "云播",
             "name": "云播影视",
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
             "type": 3,
             "api": "csp_Tvyb",
             "searchable": 1,
@@ -405,7 +405,7 @@
         {
             "key": "csp_DADAG",
             "name": "剧圈影视",
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
             "type": 3,
             "playerType": "2",
             "api": "csp_Dadag"
@@ -413,7 +413,7 @@
         {
             "key": "QIYIU",
             "name": "奇优影视",
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
             "type": 3,
             "changeable": 1,
             "api": "csp_Qiyou",
@@ -601,7 +601,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto"
@@ -614,7 +614,7 @@
             "api": "csp_Push",
             "searchable": 0,
             "quickSearch": 0,
-            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto"
