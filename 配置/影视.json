@@ -1,8 +1,8 @@
 {
-"spider":"https://vercel.jkzz.eu.org/d/BQACAgEAAyEGAASEOGgeAAMaZqRyM_JUQB3U_5snM_lP47eK8a8AAuwFAAJXuylF9I-HZMdJSH81BA;md5;bcb472152d0e3638e9397d8e195ef4fa",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/pg.jar;md5;bcb472152d0e3638e9397d8e195ef4fa",
 
- 
-  "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
+ "wallpaper": "https://深色壁纸.xxooo.cf/",
+
 
   "sites": [
      {
@@ -15,6 +15,17 @@
       "filterable": 0,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
     },
+       {
+            "key": "YGP",
+            "name": "荐片推荐",
+            "type": 3,
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "api": "csp_YGP",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+
 
 
 
@@ -144,7 +155,29 @@
       "filterable": 0,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网易公版影像.js"
     },
-   
+   {
+            "key": "韩圈",
+            "name": "韩圈网页",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/ok.txt;md5;7b519031fe3f38a8117fd402becb7927",
+            "type": 3,
+            "api": "csp_HanXiaoQuan",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "JOJO",
+            "name": "JOJO网页",
+            "type": 3,
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/ok.txt;md5;7b519031fe3f38a8117fd402becb7927",
+            "api": "csp_Jiohub",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
    {
        "key":"南瓜影视",
        "name":"南瓜网页",
@@ -156,15 +189,7 @@
        "filterable":0
         
     },
-    {
-      "key": "苹果",
-      "name": "苹果网页",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+  
     {
         "key":"兄弟影视",
         "name":"兄弟网页",
@@ -176,7 +201,141 @@
         
     },
   
-   
+
+        {
+            "key": "酷看",
+            "name": "酷看网页",
+            "type": 3,
+            "api": "csp_Kkys",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Lib",
+            "name": "立播网页",
+            "type": 3,
+            "api": "csp_Libvio",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+     
+        {
+            "key": "原创",
+            "name": "原创网页",
+            "type": 3,
+            "api": "csp_YCyz",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "timeout": 15,
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "苹果",
+            "name": "苹果网页",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+     
+        {
+            "key": "蛋蛋",
+            "name": "蛋蛋网页",
+            "type": 3,
+            "api": "csp_Cddys",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "zxzj",
+            "name": "在线外剧",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.zxzjhd.com/"
+        },
+        {
+            "key": "低端",
+            "name": "低端外剧",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+     
+        {
+            "key": "可可",
+            "name": "可可多线",
+            "type": 3,
+            "api": "csp_Kekys",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "热播",
+            "name": "热播多线",
+            "type": 3,
+            "api": "csp_AppTT",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+        },
+        {
+            "key": "萌米",
+            "name": "萌米多线",
+            "type": 3,
+            "api": "csp_AppTT",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "timeout": 15,
+            "playerType": 1,
+            "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+        },
+        
+       
+        {
+            "key": "Auete",
+            "name": "奥特网页",
+            "type": 3,
+            "api": "csp_Auete",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://auete.pro/"
+        },
     {
         "key":"快看影视",
         "name":"快看网页",
@@ -188,7 +347,78 @@
         "filterable":1
         
     },
- 
+ {
+            "key": "csp_Nkdy",
+            "name": "耐看网页",
+            "type": 3,
+            "api": "csp_Nkdy",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
+            "playerType": 2,
+            "filterable": 1
+        },
+        {
+            "key": "csp_蚂蚁",
+            "name": "蚂蚁无广",
+            "type": 1,
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
+            "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
+            "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=",
+            "filterable": 1
+        },
+        {
+            "key": "freeok",
+            "name": "free独家",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
+            "type": 3,
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "api": "csp_FreeOK"
+        },
+        {
+            "key": "huohuo",
+            "name": "火火独家",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
+            "type": 3,
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "api": "csp_SaoHuo"
+        },
+  
+        {
+            "key": "csp_农民",
+            "name": "汪汪独家",
+           "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c", 
+            "type": 3,
+            "api": "csp_Nongm"
+        },
+   
+        
+
+        {
+            "key": "云播",
+            "name": "云播影视",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
+            "type": 3,
+            "api": "csp_Tvyb",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_DADAG",
+            "name": "剧圈影视",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
+            "type": 3,
+            "playerType": "2",
+            "api": "csp_Dadag"
+        },
+        {
+            "key": "QIYIU",
+            "name": "奇优影视",
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/xmi.txt;md5;c33a0728ecfcc52ffe3ee6e345b3e39c",
+            "type": 3,
+            "changeable": 1,
+            "api": "csp_Qiyou",
+            "playerType": "1"
+        },
     {
         "key":"酷看影视",
         "name":"酷看网页",
@@ -239,15 +469,7 @@
         
     },
   
-    {
-      "key": "新视觉",
-      "name": "视觉网页",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+ 
 
     	{
 			"key": "天天",
@@ -371,38 +593,33 @@
         "斯诺克"
       ]
     },
-     {
-      "key": "可可",
-      "name": "可可网页",
-      "type": 3,
-      "jar":"https://vercel.jkzz.eu.org/d/BQACAgEAAyEGAASEOGgeAAMZZqRyC-SQS2ud8i6WZBoSo6qps2MAAusFAAJXuylFMYciqRrOUNA1BA;md5;b876c3978f963d61d6b64933c9017451;md5;b876c3978f963d61d6b64933c9017451",
-      "playerType": "2",
-      "api": "csp_Keke",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_PanSearch",
-      "name": "阿里盘搜",
-      "type": 3,
-       "jar":"https://vercel.jkzz.eu.org/d/BQACAgEAAyEGAASEOGgeAAMZZqRyC-SQS2ud8i6WZBoSo6qps2MAAusFAAJXuylFMYciqRrOUNA1BA;md5;b876c3978f963d61d6b64933c9017451",
-      "api": "csp_PanSearch",
-      "ext": ""
-    },
-    {
-      "key": "push_agent",
-      "name": "阿里推送",
-      "type": 3,
-       "jar":"https://vercel.jkzz.eu.org/d/BQACAgEAAyEGAASEOGgeAAMZZqRyC-SQS2ud8i6WZBoSo6qps2MAAusFAAJXuylFMYciqRrOUNA1BA;md5;b876c3978f963d61d6b64933c9017451",
-      "api": "csp_Push",
-      "playerType": "1",
-      "searchable": 0,
-      "ext": ""
-    }
-   
-    
-
+{
+            "key": "PanSou",
+            "name": "阿里盘搜",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+  {
+            "key": "push_agent",
+            "name": "阿里推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "quickSearch": 0,
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/18503873514/NPX/main/JAR/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        }
  
 
   ],
@@ -425,14 +642,46 @@
       "type": 2,
       "url": "Parallel"
     },
-   
-   
-{
+    {
+            "name": "MI",
+            "type": 1,
+            "url": "https://cdn.suxun.site/api/?key=HRTgKIxjsFBAhDcrge&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },   
+        {
+            "name": "Xmi",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        }
+/*{
       "name": "浪潮",
       "type": 1,
       "url": "https://api.8l2.cn/api/?key=4736ea9b784906b0063ddd41e307c16e&url="
   
-    }
+    }*/
 
     
   ],
