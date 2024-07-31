@@ -1,5 +1,6 @@
 {
-"spider":"https://vercel.jkzz.eu.org/d/BQACAgEAAyEGAASEOGgeAAMjZqmXM7orsHbLzWB_5IRgug9m7tYAArcEAAJF7khFsCgMZ0b6UyM1BA;md5;bcb472152d0e3638e9397d8e195ef4fa",
+"spider":"https://gitlab.com/duomv/duo/-/raw/main/pg.jar",
+
 
  "wallpaper": "https://深色壁纸.xxooo.cf/",
 
@@ -34,7 +35,8 @@
       "key": " 在线┃直播2",
       "name": "网络直播",
       "type": 3,
-      "api": "http://alist.xn--z7x900a.live/ddrpy2.m.js",
+       "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+     
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
