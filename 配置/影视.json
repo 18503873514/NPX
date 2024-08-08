@@ -36,12 +36,12 @@
       "key": " 在线┃直播2",
       "name": "网络直播",
       "type": 3,
-       "api": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+       "api": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JustLive.js"
+      "ext": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JustLive.js"
     },
     	{
 			"key":"bili",
@@ -96,61 +96,61 @@
       "key": "drpy_js_360",
       "name": "三六官网",
       "type": 3,
-      "api": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "api": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
+      "ext": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
     },
     {
       "key": "drpy_js_菜狗",
       "name": "搜狗官网",
       "type": 3,
-      "api": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "api": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
+      "ext": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "腾讯官网",
       "type": 3,
-      "api": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "api": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
+      "ext": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "奇艺官网",
       "type": 3,
-      "api": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "api": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
+      "ext": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "芒果官网",
       "type": 3,
-      "api": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "api": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+      "ext": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "优酷官网",
       "type": 3,
-      "api": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "api": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+      "ext": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
     },
     
     
@@ -159,11 +159,11 @@
       "key": "drpy_js_网易",
       "name": "网易官网",
       "type": 3,
-      "api": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "api": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网易公版影像.js"
+      "ext": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网易公版影像.js"
     },
 {
 			"key": "快看",
@@ -224,24 +224,24 @@
       "key": " sh",
       "name": "HD网页",
       "type": 3,
-       "api": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+       "api": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
+      "ext": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/HDmoli.js"
     },
     
      {
       "key": " sbb",
       "name": "白白网页",
       "type": 3,
-       "api": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+       "api": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/素白白.js"
+      "ext": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/素白白.js"
     },
     
            
@@ -249,12 +249,12 @@
       "key": "dsx",
       "name": "师兄影视",
       "type": 3,
-       "api": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+       "api": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大师兄影视.js"
+      "ext": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大师兄影视.js"
     },                     
                 
 
@@ -262,12 +262,12 @@
       "key": "bt",
       "name": "BT影视",
       "type": 3,
-       "api": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+       "api": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gh.xxooo.cf//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/两个BT.js"
+      "ext": "https://github.moeyy.xyz//https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/两个BT.js"
     },                
                 
 {"key":"文采","name":"文采网页","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
